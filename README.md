@@ -1,1 +1,1 @@
-# typescript-pr1
+# Practice exercise 1
